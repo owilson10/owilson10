@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <img src="/Desktop/IMG_7637.jpeg">
+ <img src="/Users/owenwilson/Downloads/IMG_7940.JPG">
 </p>
 <!--
 **owilson10/owilson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
