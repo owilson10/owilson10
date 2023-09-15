@@ -5,6 +5,8 @@
    and economics. In my free time, I like to hang out with friends and be outside.</em>
 </p>
 
+![IMG_7940](https://github.com/owilson10/owilson10/assets/78335439/f55f9e7d-9685-48bd-8e00-bf31f76ba624)
+
 <p align="center">
  <img src="/Users/owenwilson/Downloads/IMG_7940.JPG">
 </p>
